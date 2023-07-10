@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This is a Python script that performs data receiving from csv file.
+Run with command: ./run.py --fields date,campaign,clicks
 
 Author: Roman Boba
 Date: 2023-07-10
